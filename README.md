@@ -50,7 +50,7 @@ python train.py
 Run the API server with Uvicorn:
 
 ```bash
-uvicorn app.main:app --host 127.0.0.1 --port 8000 --reload
+python -m uvicorn app.main:app --host 127.0.0.1 --port 8000 --reload
 ```
 
 * API Docs (Swagger UI): `http://127.0.0.1:8000/docs`
