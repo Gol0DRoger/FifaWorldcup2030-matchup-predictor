@@ -7,7 +7,9 @@ A professional machine learning serving project that predicts FIFA World Cup 203
 
 ## Screenshots
 <img width="959" height="539" alt="Screenshot 2026-11-24 001646" src="https://github.com/user-attachments/assets/6ed429a0-2d27-48bf-8d71-5571959d2f30" />
+
 <img width="959" height="539" alt="Screenshot 2026-11-24 001936" src="https://github.com/user-attachments/assets/26186031-4d44-45ee-8255-fb7c50ebd31a" />
+
 <img width="947" height="471" alt="Screenshot 2026-11-24 001453" src="https://github.com/user-attachments/assets/d3785a38-4e32-49b2-a6c3-9758f2df4146" />
 
 ---
